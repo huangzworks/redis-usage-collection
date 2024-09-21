@@ -10,7 +10,7 @@
 
 | 章号 | 标题               | 代码及其描述                                                 |
 | ---- | ------------------ | ------------------------------------------------------------ |
-| 1    | 缓存文本数据       | ``Cache``——使用字符串实现的文本缓存程序<br />``JsonCache``——使用字符串和JSON实现的多项数据缓存程序<br />``HashCache``——使用哈希实现的多项数据缓存程序 |
+| 1    | 缓存文本数据       | [``Cache``](https://github.com/huangzworks/rediscookbook/tree/master/code)——使用字符串实现的文本缓存程序<br />[``JsonCache``](https://github.com/huangzworks/rediscookbook/blob/master/code/json_cache.py)——使用字符串和JSON实现的多项数据缓存程序<br />[``HashCache``](https://github.com/huangzworks/rediscookbook/blob/master/code/hash_cache.py)——使用哈希实现的多项数据缓存程序 |
 | 2    | 缓存二进制数据     | ``BinaryCache``——使用字符串实现的二进制文件缓存程序          |
 | 3    | 锁                 | ``Lock``——基本的锁（使用字符串实现）<br />``AutoReleaseLock``——带自动释放功能的锁（使用字符串实现） |
 | 4    | 带密码保护的锁     | ``IdentityLock``——带密码保护功能的锁（使用字符串实现）       |
