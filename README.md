@@ -6,7 +6,7 @@
 
 关于《Redis应用实例》的更多信息请参考该书主页：[huangz.works/rediscookbook/](https://huangz.works/rediscookbook/)
 
-软件需求：Python 3.12+，Redis 7.4+，redis-py 5.1.0b7+
+软件需求：Redis 7.4+或Valkey 9.0+，Python 3.12+，redis-py 5.1.0b7+
 
 
 
